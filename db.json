@@ -17,6 +17,12 @@
       "day": "16 de febrero a las 17",
       "reminder": true,
       "id": 6
+    },
+    {
+      "text": "Base de datos",
+      "day": "11 de mayo 20hs",
+      "reminder": true,
+      "id": 7
     }
   ]
 }
